@@ -23,7 +23,7 @@ public class ClientTest
 			// add resource on clinet object request to be where to send it returns WebResource
 			
 			String url= "http://localhost:2017/serverprovider/rest/do/die";
-			String s3="uusuhsiqhsqittttttttttcgu w,wc,wncilwnci,hsiq";
+			String s3="uusuhsiqhsqittttttttttcghcsvb ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,acu w,wc,wncilwnci,hsiq";
 			String json="{\"stuName\":\"manoj\",\"stuNo\":12,\"stuMarks\":24}";
 			
 			WebResource rs=client.resource(url);
